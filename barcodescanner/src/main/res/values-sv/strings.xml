@@ -65,7 +65,7 @@
   <string name="msg_default_format">Format</string>
   <string name="msg_default_meta">Metadata</string>
   <string name="msg_default_mms_subject">Hej</string>
-  <string name="msg_default_status">Placera steckkoden inom sökarens rektangel för att läsa den.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Tid</string>
   <string name="msg_default_type">Typ</string>
   <string name="msg_encode_contents_failed">Det gick inte att avkoda en streckkod från den erhållna informationen.</string>
@@ -135,7 +135,7 @@
   <string name="result_product">Hittade produkt</string>
   <string name="result_sms">Hittade SMS-adress</string>
   <string name="result_tel">Hittade telefonnummer</string>
-  <string name="result_text">Hittade vanlig text</string>
+  <string name="result_text"></string>
   <string name="result_uri">Hittade URL</string>
   <string name="result_wifi">Hittade WLAN-konfiguration</string>
   <string name="sbc_name">Google Book Search</string>

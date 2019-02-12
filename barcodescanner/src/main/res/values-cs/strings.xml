@@ -65,7 +65,7 @@
   <string name="msg_default_format">Formát</string>
   <string name="msg_default_meta">Metadata</string>
   <string name="msg_default_mms_subject">Ahoj</string>
-  <string name="msg_default_status">Zaměřte čtvercem na čárový kód</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Čas</string>
   <string name="msg_default_type">Typ</string>
   <string name="msg_encode_contents_failed">Z poskytnutých údajů se nepodařilo rozkódovat čárový kód.</string>
@@ -135,7 +135,7 @@
   <string name="result_product">Nalezen produkt</string>
   <string name="result_sms">Nalezena SMS adresa</string>
   <string name="result_tel">Nalezeno telefoní číslo</string>
-  <string name="result_text">Nalezen nějaký text</string>
+  <string name="result_text"></string>
   <string name="result_uri">Nalezeno URL</string>
   <string name="result_wifi">Nalezeno bezdrátová konfigurace</string>
   <string name="sbc_name">Google Book Search</string>

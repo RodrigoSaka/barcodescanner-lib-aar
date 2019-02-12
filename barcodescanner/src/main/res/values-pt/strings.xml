@@ -65,7 +65,7 @@
   <string name="msg_default_format">Formato</string>
   <string name="msg_default_meta">Metadata</string>
   <string name="msg_default_mms_subject">Olá</string>
-  <string name="msg_default_status">Alinhar código de barras com o exemplo para ser lido.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Tempo</string>
   <string name="msg_default_type">Tipo</string>
   <string name="msg_encode_contents_failed">Não foi possível codificar o código de barras a partir dos dados fornecidos.</string>
@@ -135,7 +135,7 @@
   <string name="result_product">Produto encontrado</string>
   <string name="result_sms">Endereço SMS encontrado</string>
   <string name="result_tel">Número de telefone encontrado</string>
-  <string name="result_text">Texto simples encontrado</string>
+  <string name="result_text"></string>
   <string name="result_uri">URL encontrado</string>
   <string name="result_wifi">Configuração WLAN encontrada</string>
   <string name="sbc_name">Pesquisa Google Book</string>

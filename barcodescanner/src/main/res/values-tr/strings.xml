@@ -65,7 +65,7 @@
   <string name="msg_default_format">Biçim</string>
   <string name="msg_default_meta">Metadata</string>
   <string name="msg_default_mms_subject">Merhaba</string>
-  <string name="msg_default_status">Barkodu taramak için vizördeki dikdörtgenin içerisine yerleştirin.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Süre</string>
   <string name="msg_default_type">Tür</string>
   <string name="msg_encode_contents_failed">Sağlanan verilerden bir barkod kodlanamadı.</string>
@@ -135,7 +135,7 @@
   <string name="result_product">Bulunan ürün</string>
   <string name="result_sms">Bulunan SMS adresi</string>
   <string name="result_tel">Bulunan telefon numarası</string>
-  <string name="result_text">Bulunan düz metin</string>
+  <string name="result_text"></string>
   <string name="result_uri">Bulunan URL</string>
   <string name="result_wifi">Bulunan Wi-Fi konfigürasyonu</string>
   <string name="sbc_name">Google Kitap Arama</string>

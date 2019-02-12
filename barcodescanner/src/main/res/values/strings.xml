@@ -65,7 +65,7 @@
   <string name="msg_default_format">Format</string>
   <string name="msg_default_meta">Metadata</string>
   <string name="msg_default_mms_subject">Hi</string>
-  <string name="msg_default_status">Place a barcode inside the viewfinder rectangle to scan it.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Time</string>
   <string name="msg_default_type">Type</string>
   <string name="msg_encode_contents_failed">Could not encode a barcode from the data provided.</string>
@@ -135,7 +135,7 @@
   <string name="result_product">Found product</string>
   <string name="result_sms">Found SMS address</string>
   <string name="result_tel">Found phone number</string>
-  <string name="result_text">Found plain text</string>
+  <string name="result_text"></string>
   <string name="result_uri">Found URL</string>
   <string name="result_wifi">Found WLAN Configuration</string>
   <string name="sbc_name">Google Book Search</string>

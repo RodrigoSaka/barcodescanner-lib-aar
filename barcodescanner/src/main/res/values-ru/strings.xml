@@ -65,7 +65,7 @@
   <string name="msg_default_format">Формат</string>
   <string name="msg_default_meta">Метаданные</string>
   <string name="msg_default_mms_subject">Привет</string>
-  <string name="msg_default_status">Чтобы сканировать штрих-код, поместите его в прямоугольник видоискателя.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Время</string>
   <string name="msg_default_type">Тип</string>
   <string name="msg_encode_contents_failed">Невозможно создать штрих-код из текущих данных.</string>
@@ -135,7 +135,7 @@
   <string name="result_product">Найден товар</string>
   <string name="result_sms">Найден адрес для SMS</string>
   <string name="result_tel">Найден номер телефона</string>
-  <string name="result_text">Найден текст</string>
+  <string name="result_text"></string>
   <string name="result_uri">Найден URL</string>
   <string name="result_wifi">Найдена конфигурация сети</string>
   <string name="sbc_name">Поиск книг Google</string>

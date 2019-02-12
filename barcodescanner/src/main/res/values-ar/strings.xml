@@ -65,7 +65,7 @@
   <string name="msg_default_format">التنسيق</string>
   <string name="msg_default_meta">البيانات الوصفية</string>
   <string name="msg_default_mms_subject">أهلا</string>
-  <string name="msg_default_status">قم بوضع الرمز الشريطي داخل حدود صورة الكاميرا ليتم مسحه.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">الوقت</string>
   <string name="msg_default_type">النوع</string>
   <string name="msg_encode_contents_failed">تعذر ترميز رمز شريطي من البيانات المتوفرة.</string>
@@ -135,7 +135,7 @@
   <string name="result_product">تم العثور على المنتج</string>
   <string name="result_sms">تم العثور على عنوان SMS</string>
   <string name="result_tel">تم العثور على رقم الهاتف</string>
-  <string name="result_text">تم العثور على نص عادي</string>
+  <string name="result_text"></string>
   <string name="result_uri">تم العثور على العنوان</string>
   <string name="result_wifi">العثور على التكوين اللاسلك</string>
   <string name="sbc_name">البحث في Google Book</string>

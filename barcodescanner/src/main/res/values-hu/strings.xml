@@ -65,7 +65,7 @@
   <string name="msg_default_format">Formátum</string>
   <string name="msg_default_meta">Metaadatok</string>
   <string name="msg_default_mms_subject">Szia</string>
-  <string name="msg_default_status">Pozícionálja a vonalkódot a kereső téglalapba a szkenneléshez.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Idő</string>
   <string name="msg_default_type">Típus</string>
   <string name="msg_encode_contents_failed">Nem sikerült létrehozni a vonalkódot a megadott adatokból.</string>
@@ -135,7 +135,7 @@
   <string name="result_product">Termék találat</string>
   <string name="result_sms">SMS szám találat</string>
   <string name="result_tel">Telefonszám találat</string>
-  <string name="result_text">Egyszerű szöveg találat</string>
+  <string name="result_text"></string>
   <string name="result_uri">URL találat</string>
   <string name="result_wifi">WLAN konfiguráció találat</string>
   <string name="sbc_name">Google Könyvek keresés</string>

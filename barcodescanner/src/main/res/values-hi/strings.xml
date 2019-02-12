@@ -65,7 +65,7 @@
   <string name="msg_default_format">प्रारूप</string>
   <string name="msg_default_meta">मेटाडाटा</string>
   <string name="msg_default_mms_subject">हाय</string>
-  <string name="msg_default_status">दृश्यदर्शी आयत के अंदर एक बारकोड प्लेस इसे स्कैन.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">समय</string>
   <string name="msg_default_type">टाइप</string>
   <string name="msg_encode_contents_failed">उपलब्ध कराए गए आंकड़ों से एक बारकोड सांकेतिक शब्दों में बदलना नहीं कर सका.</string>
@@ -135,7 +135,7 @@
   <string name="result_product">मिला उत्पाद</string>
   <string name="result_sms">मिला एसएमएस पता</string>
   <string name="result_tel">मिला फोन नंबर</string>
-  <string name="result_text">मिला सादा पाठ</string>
+  <string name="result_text"></string>
   <string name="result_uri">मिला यूआरएल</string>
   <string name="result_wifi">मिला WLAN विन्यास</string>
   <string name="sbc_name">Google पुस्तक खोज</string>

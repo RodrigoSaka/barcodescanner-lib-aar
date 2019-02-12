@@ -65,7 +65,7 @@
   <string name="msg_default_format">פורמט</string>
   <string name="msg_default_meta">מטה-נתונים</string>
   <string name="msg_default_mms_subject">היי</string>
-  <string name="msg_default_status">הצב ברקוד בתוך המלבן כדי לסרוק אותו.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">זמן</string>
   <string name="msg_default_type">סוג</string>
   <string name="msg_encode_contents_failed">לא היתה אפשרות לקודד ברקוד מהנתונים שסופקו.</string>
@@ -135,7 +135,7 @@
   <string name="result_product">נמצא מוצר</string>
   <string name="result_sms">נמצאה כתובת הודעה</string>
   <string name="result_tel">נמצא מספר טלפון</string>
-  <string name="result_text">נמצא טקסט</string>
+  <string name="result_text"></string>
   <string name="result_uri">נמצאה כתובת אינטרנט</string>
   <string name="result_wifi">נמצאו הגדרות רשת אל חוטית</string>
   <string name="sbc_name">Google חיפוש ספרים</string>

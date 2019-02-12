@@ -65,7 +65,7 @@
   <string name="msg_default_format">Format</string>
   <string name="msg_default_meta">Metadata</string>
   <string name="msg_default_mms_subject">Hai</string>
-  <string name="msg_default_status">Letakkan barcode di dalam kotak jendela untuk memindai.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Waktu</string>
   <string name="msg_default_type">Tipe</string>
   <string name="msg_encode_contents_failed">Tidak dapat meng-encode barcode dari data yang diberikan.</string>
@@ -135,7 +135,7 @@
   <string name="result_product">Produk ditemukan</string>
   <string name="result_sms">Alamat SMS ditemukan</string>
   <string name="result_tel">Nomor telepon ditemukan</string>
-  <string name="result_text">Teks ditemukan</string>
+  <string name="result_text"></string>
   <string name="result_uri">URL ditemukan</string>
   <string name="result_wifi">Konfigurasi WLAN ditemukan</string>
   <string name="sbc_name">Pencarian Google Book</string>

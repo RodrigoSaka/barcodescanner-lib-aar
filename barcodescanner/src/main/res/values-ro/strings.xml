@@ -65,7 +65,7 @@
   <string name="msg_default_format">Format</string>
   <string name="msg_default_meta">Metadate</string>
   <string name="msg_default_mms_subject">Servus</string>
-  <string name="msg_default_status">Plasează codul de bare în interiorul vizorului pentru a-l scana</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Ora</string>
   <string name="msg_default_type">Tip</string>
   <string name="msg_encode_contents_failed">Codificare eșuată a codului de bare, din datele furnizate</string>
@@ -135,7 +135,7 @@
   <string name="result_product">Găsit produs</string>
   <string name="result_sms">Găsit număr de SMS</string>
   <string name="result_tel">Găsit număr de telefon</string>
-  <string name="result_text">Găsit text</string>
+  <string name="result_text"></string>
   <string name="result_uri">Găsit URL</string>
   <string name="result_wifi">Găsit configurarea WLAN</string>
   <string name="sbc_name">Căutare Google Cărți</string>

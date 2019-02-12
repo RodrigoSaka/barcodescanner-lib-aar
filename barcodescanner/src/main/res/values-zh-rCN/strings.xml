@@ -65,7 +65,7 @@
   <string name="msg_default_format">格式</string>
   <string name="msg_default_meta">元数据</string>
   <string name="msg_default_mms_subject">Hi</string>
-  <string name="msg_default_status">请将条码置于取景框内扫描。  </string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">时间</string>
   <string name="msg_default_type">类型</string>
   <string name="msg_encode_contents_failed">无法生成条码。</string>
@@ -135,7 +135,7 @@
   <string name="result_product">找到商品</string>
   <string name="result_sms">找到短信号码</string>
   <string name="result_tel">找到电话号码</string>
-  <string name="result_text">找到纯文本</string>
+  <string name="result_text"></string>
   <string name="result_uri">找到 URL </string>
   <string name="result_wifi">找到 Wi-Fi 配置</string>
   <string name="sbc_name">Google 图书搜索</string>

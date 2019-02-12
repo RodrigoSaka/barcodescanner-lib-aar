@@ -65,7 +65,7 @@
   <string name="msg_default_format">Format</string>
   <string name="msg_default_meta">Métadonnées</string>
   <string name="msg_default_mms_subject">Salut</string>
-  <string name="msg_default_status">Encadrez un code-barres avec le viseur pour le balayer.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Heure</string>
   <string name="msg_default_type">Type</string>
   <string name="msg_encode_contents_failed">Impossible d\'encoder un code-barres à partir des données fournies.</string>
@@ -135,7 +135,7 @@
   <string name="result_product">Produit trouvé</string>
   <string name="result_sms">Adresse SMS trouvée</string>
   <string name="result_tel">Numéro de téléphone trouvé</string>
-  <string name="result_text">Texte en clair trouvé</string>
+  <string name="result_text"></string>
   <string name="result_uri">URL trouvée</string>
   <string name="result_wifi">Configuration WLAN trouvée</string>
   <string name="sbc_name">Recherche Google Livres</string>

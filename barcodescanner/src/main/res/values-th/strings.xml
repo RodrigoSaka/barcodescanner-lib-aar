@@ -65,7 +65,7 @@
   <string name="msg_default_format">รูปแบบ</string>
   <string name="msg_default_meta">ข้อมูลเมตา</string>
   <string name="msg_default_mms_subject">สวัสดี</string>
-  <string name="msg_default_status">วางบาร์โค้ดภายในสี่เหลี่ยมผืนผ้าที่ช่องมองภาพเพื่อสแกน</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">เวลา</string>
   <string name="msg_default_type">ชนิด</string>
   <string name="msg_encode_contents_failed">ไม่สามารถเข้ารหัสบาร์โค้ดจากข้อมูลที่มี</string>
@@ -135,7 +135,7 @@
   <string name="result_product">พบสินค้า</string>
   <string name="result_sms">พบที่อยู่ SMS</string>
   <string name="result_tel">พบเบอร์โทรศัพท์</string>
-  <string name="result_text">พบข้อความธรรมดา</string>
+  <string name="result_text"></string>
   <string name="result_uri">พบ URL</string>
   <string name="result_wifi">พบการกำหนดค่า WLAN</string>
   <string name="sbc_name">ค้นหาหนังสือจาก Google</string>
